@@ -1,6 +1,6 @@
 fastai==1.0.61
 Flask==1.1.2
-torch-1.4.0
-torchvision==0.5.0
+torch
+torchvision
 Werkzeug==1.0.1
 gunicorn
