@@ -1,4 +1,4 @@
 Flask
-fastai
+fastai==1.0.60
 http://download.pytorch.org/whl/cpu/torch-1.12.1%2Bcpu-cp310-cp310-linux_x86_64.whl
 Werkzeug
